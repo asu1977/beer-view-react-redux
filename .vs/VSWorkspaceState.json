@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\node_modules",
+    "\\src\\node_modules\\api",
+    "\\src\\node_modules\\containers",
+    "\\src\\node_modules\\containers\\phones",
+    "\\src___",
+    "\\src___\\node_modules",
+    "\\src___\\node_modules\\actions",
+    "\\src___\\node_modules\\api"
+  ],
+  "SelectedNode": "\\src\\node_modules\\api\\mockPhones.js",
+  "PreviewInSolutionExplorer": false
+}
